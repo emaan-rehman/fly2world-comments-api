@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "fly2world-comments-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "fly2world-db",
+			"database_id": "d17b7ede-22ea-46ca-bbc3-4170c114a66a"
+		}
+	]
+}
